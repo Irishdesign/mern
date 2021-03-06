@@ -1,0 +1,22 @@
+.App {
+    text-align: center;
+    margin: 0 auto;
+    width: 800px;
+    height: 800px;
+}
+
+.popup {
+    background-color: blanchedalmond;
+    width: 250px;
+    height: 180px;
+    position: fixed;
+    padding: 20px 10px;
+}
+
+.popup ul {
+    text-align: left;
+}
+
+.popup ul li {
+    margin-bottom: 5px;
+}
